@@ -15,6 +15,7 @@ nav{
 	width: 100%;
 	height: auto;
 	color: #fff;
+	background-color: black;
 	z-index: 999;
 }
 .upper_navbar{
